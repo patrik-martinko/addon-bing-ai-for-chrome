@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Bing AI for Chrome",
+    "description": "This extension allows using Bing AI chatbot with Google Chrome.",
+    "version": "1.0.0",
+    "permissions": [
+        "declarativeNetRequest"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "https://*.bing.com/*"
+    ],
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    }
+}
