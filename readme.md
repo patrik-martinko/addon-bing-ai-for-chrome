@@ -4,9 +4,9 @@ This extension allows using Bing AI chatbot with Google Chrome and other Chromiu
 
 [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/bing-ai-for-chrome/oofdkcckpabclngcdjnkhlldcfadlfmh)
 
-## With extension
+## With extension in Brave
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot-brave.jpg)
 
 ## Without extension
 
