@@ -1,4 +1,4 @@
-# ![Icon](package/icon-48.png) [Bing AI for Chrome](https://chrome.google.com/webstore/detail/bing-ai-for-chrome/oofdkcckpabclngcdjnkhlldcfadlfmh) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/oofdkcckpabclngcdjnkhlldcfadlfmh?label=Number%20of%20installations:)
+# ![Icon](package/icon-48.png) [Bing AI for Chrome](https://chrome.google.com/webstore/detail/bing-ai-for-chrome/oofdkcckpabclngcdjnkhlldcfadlfmh) ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/oofdkcckpabclngcdjnkhlldcfadlfmh?color=black&label=Number%20of%20installations:)
 
 Allows using Bing AI chatbot with Google Chrome and other Chromium browsers.
 
