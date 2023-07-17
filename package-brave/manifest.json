@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Bing AI for Brave",
+    "description": "Allows using Bing AI chatbot with Brave.",
+    "version": "1.0.0",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "https://*.bing.com/*"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    }
+}

@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Bing AI for Chrome",
-    "description": "This extension allows using Bing AI chatbot with Google Chrome and other Chromium browsers.",
+    "description": "Allows using Bing AI chatbot with Google Chrome and other Chromium browsers.",
     "version": "1.0.0",
     "permissions": [
         "declarativeNetRequest"
