@@ -1,0 +1,1 @@
+document.documentElement.setAttribute('bing-ai-for-brave', 'active');
