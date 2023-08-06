@@ -16,4 +16,4 @@ The latest version of Brave has a [bug](https://github.com/brave/brave-browser/i
 
 ## Without extension
 
-![Screenshot](screenshot-without.jpg)
+![Screenshot](message-without.jpg)
