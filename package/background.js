@@ -10,12 +10,7 @@ chrome.declarativeNetRequest.updateDynamicRules({
                     {
                         operation: 'set',
                         header: 'user-agent',
-                        value: navigator.userAgent.split('AppleWebKit')[0] + 'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1700.00'
-                    },
-                    {
-                        operation: 'set',
-                        header: 'sec-ch-ua',
-                        value: '"Chromium";v="112", "Microsoft Edge";v="112", "Not:A-Brand";v="99"'
+                        value: navigator.userAgent.split('AppleWebKit')[0] + 'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0'
                     }
                 ]
             },
@@ -24,4 +19,12 @@ chrome.declarativeNetRequest.updateDynamicRules({
             }
         }
     ],
+});
+chrome.action.onClicked.addListener(() => {
+    chrome.tabs.create({ url: 'https://chat.bing.com' });
+});
+chrome.runtime.onInstalled.addListener(({ reason }) => {
+    if (reason === 'install') {
+        chrome.tabs.create({ url: 'https://chat.bing.com' });
+    }
 });
