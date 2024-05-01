@@ -6,7 +6,8 @@
     "permissions": [
         "webRequest",
         "webRequestBlocking",
-        "https://*.bing.com/*"
+        "https://*.bing.com/*",
+        "https://copilot.microsoft.com/*"
     ],
     "background": {
         "scripts": [
