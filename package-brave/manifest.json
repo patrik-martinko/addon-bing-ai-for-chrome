@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Bing AI for Brave",
-    "description": "Removes the limits of Microsoft Colipot / Bing AI (ChatGPT v4) for Brave browser.",
+    "description": "Removes the limits of Microsoft Copilot / Bing AI (ChatGPT v4) for Brave browser.",
     "version": "1.1.1",
     "permissions": [
         "webRequest",
