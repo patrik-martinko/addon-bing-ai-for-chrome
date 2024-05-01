@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Bing AI for Chrome",
-    "description": "Allows using Bing AI chatbot with Google Chrome and other Chromium browsers.",
-    "version": "1.1.0",
+    "description": "Removes the limits of Microsoft Colipot or Bing AI (ChatGPT v4) for Google Chrome and other browsers.",
+    "version": "1.1.1",
     "permissions": [
         "declarativeNetRequest"
     ],
@@ -12,7 +12,8 @@
     "content_scripts": [
         {
             "matches": [
-                "https://*.bing.com/*"
+                "https://*.bing.com/*",
+                "https://copilot.microsoft.com/*"
             ],
             "js": [
                 "script.js"
@@ -20,7 +21,8 @@
         }
     ],
     "host_permissions": [
-        "https://*.bing.com/*"
+        "https://*.bing.com/*",
+        "https://copilot.microsoft.com/*"
     ],
     "icons": {
         "16": "icon-16.png",

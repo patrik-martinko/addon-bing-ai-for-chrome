@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "Bing AI for Brave",
-    "description": "Allows using Bing AI chatbot with Brave.",
-    "version": "1.1.0",
+    "description": "Removes the limits of Microsoft Colipot or Bing AI (ChatGPT v4) for Brave browser.",
+    "version": "1.1.1",
     "permissions": [
         "webRequest",
         "webRequestBlocking",
@@ -16,7 +16,8 @@
     "content_scripts": [
         {
             "matches": [
-                "https://*.bing.com/*"
+                "https://*.bing.com/*",
+                "https://copilot.microsoft.com/*"
             ],
             "js": [
                 "script.js"
