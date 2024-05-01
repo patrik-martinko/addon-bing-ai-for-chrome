@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Bing AI for Chrome",
-    "description": "Removes the limits of Microsoft Colipot or Bing AI (ChatGPT v4) for Google Chrome and other browsers.",
+    "description": "Removes the limits of Microsoft Colipot / Bing AI (ChatGPT v4) for Google Chrome and other browsers.",
     "version": "1.1.1",
     "permissions": [
         "declarativeNetRequest"
