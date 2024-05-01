@@ -1,6 +1,6 @@
 # ![Icon](package/icon-48.png) [Bing AI for Chrome](https://chrome.google.com/webstore/detail/bing-ai-for-chrome/oofdkcckpabclngcdjnkhlldcfadlfmh) [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/oofdkcckpabclngcdjnkhlldcfadlfmh?color=black&label=Number%20of%20installations:)](https://chrome.google.com/webstore/detail/bing-ai-for-chrome/oofdkcckpabclngcdjnkhlldcfadlfmh)
 
-This add-on removes the limits of Microsoft Colipot or Bing AI (ChatGPT v4) for Google Chrome and other browsers by setting appropriate features for the browser.
+This add-on removes the limits of Microsoft Colipot / Bing AI (ChatGPT v4) for Google Chrome and other browsers by setting appropriate features for the browser.
 
 [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/bing-ai-for-chrome/oofdkcckpabclngcdjnkhlldcfadlfmh)
 
