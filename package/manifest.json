@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Bing AI for Chrome",
     "description": "Removes the limits of Microsoft Copilot / Bing AI (ChatGPT v4) for Google Chrome and other browsers.",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "permissions": [
         "declarativeNetRequest"
     ],
